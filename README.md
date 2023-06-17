@@ -2,7 +2,7 @@
 
 # USAGE
 
-1. Use your API token instead of `headers` in `gh_crawler.py`
+1. Use your API token modifying `headers` in `gh_crawler.py`
 
 2. Run `collect_data.sh`
 
