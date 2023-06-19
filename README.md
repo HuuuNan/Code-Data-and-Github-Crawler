@@ -10,7 +10,7 @@
 
 # CODE DATA
 
-[GH](https://zenodo.org/record/6341643/files/index.zip) - (version, October 9-10, 2021): 249GB of multi-lingual code.
+[GitHub](https://zenodo.org/record/6341643/files/index.zip) - (version, October 9-10, 2021): 249GB of multi-lingual code.
 
 # Acknowledge
 
