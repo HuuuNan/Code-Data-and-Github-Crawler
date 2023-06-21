@@ -12,7 +12,7 @@
 
 [GitHub](https://zenodo.org/record/6341643/files/index.zip) - (version, October 9-10, 2021): 249GB of multi-lingual code.
 
-[Stack-Repo](https://huggingface.co/datasets/RepoFusion/Stack-Repo): Stack-Repo is a dataset of 200 Java repositories from GitHub with permissive licenses and near-deduplicated files that are augmented with three types of repository contexts.
+[Stack-Repo](https://huggingface.co/datasets/RepoFusion/Stack-Repo): Stack-Repo is a dataset of 200 Java repositories from GitHub with permissive licenses and near-deduplicated files.
 
 # Acknowledge
 
