@@ -8,11 +8,21 @@
 
 
 
-# CODE DATA
+# CODE CORPUS
 
 [GitHub](https://zenodo.org/record/6341643/files/index.zip) - (version, October 9-10, 2021): 249GB of multi-lingual code.
 
 [Stack-Repo](https://huggingface.co/datasets/RepoFusion/Stack-Repo): Stack-Repo is a dataset of 200 Java repositories from GitHub with permissive licenses and near-deduplicated files.
+
+[CodeAlpaca-20k](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k): 20k instruction tuning code dataset.
+
+# CODE BENCHMARKS
+
+[CoderEval](https://github.com/CoderEval/CoderEval): CoderEval is a pragmatic code generation benchmark to evaluate the performace of generative pre-trained models. CoderEval supports Python and Java, with 230 functions from 43 Python projects and 230 methods from 10 Java projects.
+
+[HumanEval](https://github.com/openai/human-eval): HumanEval contains 164 hand-written Python programming problems. Each problem provides a prompt with descriptions of the function to be generated, function signature, and example test cases in the form of assertions.
+
+[HumanEval-X](https://github.com/THUDM/CodeGeeX): Previous works evaluate multilingual program synthesis under semantic similarity (e.g., CodeBLEU) which is often misleading, HumanEval-X evaluates the functional correctness of the generated programs. HumanEval-X consists of 820 high-quality human-crafted data samples (each with test cases) in Python, C++, Java, JavaScript, and Go, and can be used for various tasks.
 
 # Acknowledge
 
